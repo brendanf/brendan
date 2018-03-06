@@ -1,0 +1,11 @@
+Package: brendan
+Type: Package
+Title: Convenience functions
+Version: 0.1.0.999
+Author@R: person("Brendan", "Furneaux", email = "brendan.furneaux@gmail.com", role = c("aut", "cre"))
+Maintainer: Brendan Furneaux <brendan.furneaux@gmail.com>
+Description: These are convenience functions that I want to use in multiple projects.
+License: CC-SA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
